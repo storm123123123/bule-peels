@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://wallpapers.com/images/featured/n922sdhvghzboib1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#talk {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 32px;
+}
